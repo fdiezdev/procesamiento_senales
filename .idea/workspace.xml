@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="284c3501-b086-4d57-9fc5-3460f23262f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labs/IC1.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/IC2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/IC3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/Lab_PS_11_2023.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/TS.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/tarea1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2024/tarea1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +15,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectId" id="2OhR99fWUXxB2Fl53aalCD1peAB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -53,6 +50,7 @@
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="PS" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -74,6 +72,14 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -88,6 +94,7 @@
       <workItem from="1686703578063" duration="1142000" />
       <workItem from="1686704749487" duration="11000" />
       <workItem from="1686704774435" duration="887000" />
+      <workItem from="1716996526172" duration="613000" />
     </task>
     <servers />
   </component>
